@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/bin/Debug/net6.0/ex64
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/bin/Debug/net6.0/ex64.deps.json
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/bin/Debug/net6.0/ex64.runtimeconfig.json
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/bin/Debug/net6.0/ex64.dll
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/bin/Debug/net6.0/ex64.pdb
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.AssemblyInfo.cs
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.dll
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/refint/ex64.dll
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.pdb
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ex64.genruntimeconfig.cache
+/Users/delyashchuriumova/finalProjectRecurtion/ex64/obj/Debug/net6.0/ref/ex64.dll
